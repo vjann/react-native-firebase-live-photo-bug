@@ -5,7 +5,7 @@
 2. tap 'upload to firebase' button. wait for error
 
 ### Screenshots
-![Home Screen]('./screenshots/IMG_0239.PNG')
-![ImagePicker]('./screenshots/IMG_0241.PNG')
-![Home Screen with image uri]('./screenshots/IMG_0240.PNG')
-![error]('./screenshots/IMG_0242.PNG')
+![Home Screen](./screenshots/IMG_0239.PNG)
+![ImagePicker](./screenshots/IMG_0241.PNG)
+![Home Screen with image uri](./screenshots/IMG_0240.PNG)
+![error](./screenshots/IMG_0242.PNG)
